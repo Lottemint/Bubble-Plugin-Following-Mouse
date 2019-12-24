@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "Lorem lorem opossum.\n\nEditor:\nhttps://bubble.io/page?name=index&id=following-mouse&tab=tabs-1\n\nPreview:\nhttps://following-mouse.bubbleapps.io/version-test\n\nVideo:\nhttps://s3.amazonaws.com/appforest_uf/f1577219377687x387607072604392770/following%20mouse.mp4",
+    "image": "//s3.amazonaws.com/appforest_uf/f1577219205311x681025549257168600/Bubble%2520Icon%5B1%5D.png",
+    "license": "open_source",
+    "name": "Following Mouse",
+    "plugin_instructions": "Editor:\nhttps://bubble.io/page?name=index&id=following-mouse&tab=tabs-1\n\nPreview:\nhttps://following-mouse.bubbleapps.io/version-test\n\nVideo:\nhttps://s3.amazonaws.com/appforest_uf/f1577219377687x387607072604392770/following%20mouse.mp4"
+}
